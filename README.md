@@ -14,5 +14,5 @@
 
 | Projeto | Descrição | Branch |
 |--------|-----------|--------|
-| Projeto 01 | Criando um sistema para gerenciamento de um estacionamento - Lógica de Programação, C#, .NET, Versão 9  | [`Desafio-01`](https://github.com/mauriciocampos1234/DIO-WEX/tree/Desafio-01) |
+| Projeto 01 | Criando um sistema para gerenciamento de um estacionamento - Lógica de Programação, C#, .NET Versão 9  | [`Desafio-01`](https://github.com/mauriciocampos1234/DIO-WEX/tree/Desafio-01) |
 ...
