@@ -9,3 +9,9 @@ O programa deverá cálcular corretamente os valores dos métodos da classe Rese
 1. Não deve ser possível realizar uma reserva de uma suíte com capacidade menor do que a quantidade de hóspedes. Exemplo: Se é uma suíte capaz de hospedar 2 pessoas, então ao passar 3 hóspedes deverá retornar uma exception.
 2. O método ObterQuantidadeHospedes da classe Reserva deverá retornar a quantidade total de hóspedes, enquanto que o método CalcularValorDiaria deverá retornar o valor da diária (Dias reservados x valor da diária).
 3. Caso seja feita uma reserva igual ou maior que 10 dias, deverá ser concedido um desconto de 10% no valor da diária.
+
+```
+- Lógica de Programação e POO;
+- Conhecimentos Básicos em C# (.NET, Versão 9)
+- Versionamento de código GIT | GITHUB (Os desáfios de projetos deste BootCamp da WEX, para uma melhor organização estarei sempre alocando em Branchs e na MAIN em README.md apontando para a Branch dos projetos).
+```
