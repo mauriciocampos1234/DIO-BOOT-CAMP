@@ -1,5 +1,12 @@
 # Banco de Dados
 
+```
+- Banco de dados SQl Server;
+- Management Studio 21;
+- Liguagens SQL usadas [DDL, DML, DQL];
+- Versionamento de código GIT | GITHUB.
+```
+
 ## Contexto
 Você é responsável pelo banco de dados de um site de filmes, onde são armazenados dados sobre os filmes e seus atores. Sendo assim, foi solicitado para que você realize uma consulta no banco de dados com o objetivo de trazer alguns dados para análises.
 
