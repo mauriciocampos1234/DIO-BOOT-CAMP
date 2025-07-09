@@ -1,12 +1,14 @@
-# DIO-WEX
+# DIO
 
 > [!NOTE]
-> **Lógica de Programação e POO |**
-> **Banco de dados Relacionais e Não Relacionais.**
+> **Lógica de Programação e POO. |**
+> **Banco de dados Relacionais e Não Relacionais. |**
+> **Docker/Docker Compose.**
 
 > [!TIP]
-> **Conhecimentos em C# (.NET, Versão 9) |**
-> **Linguagem SQL [DDL, DCL, DML, TCL, DQL].**
+> **Conhecimentos em C# (.NET, Versão 9). |**
+> **Linguagem SQL [DDL, DCL, DML, TCL, DQL]. |**
+> **Comandos via terminal Docker/Docker Compose.**
 
 > [!IMPORTANT]
 > **Versionamento de código GIT | GITHUB (Os desáfios de projetos deste BootCamp da WEX, para uma melhor organização estarei sempre alocando em Branchs e aqui na MAIN apontando para a Branch dos projetos).**
