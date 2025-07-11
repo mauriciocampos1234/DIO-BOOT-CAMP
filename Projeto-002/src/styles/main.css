@@ -1,0 +1,100 @@
+/* atalho para comentar um trecho de código grande: shift + alt + a
+atalho para comentar uma linha de código: ctrl + /
+atalho para desfazer o comentário: ctrl + shift + /
+atalho para formatar o código: ctrl + shift + i */
+
+
+/* O seletor .container define o estilo para um elemento com a classe container. 
+O display: flex transforma esse elemento em um container flexível, permitindo organizar seus elementos filhos de forma mais eficiente. 
+Com flex-direction: column, os itens dentro do container são dispostos em coluna, ou seja, um abaixo do outro.
+
+A propriedade height: 100vh faz com que o container ocupe toda a altura da janela de visualização (viewport). 
+Já background-image: url("../images/wall.png") define uma imagem de fundo para o container, utilizando o arquivo wall.png localizado na pasta images. 
+
+Essas configurações ajudam a estruturar e estilizar a área principal do jogo ou aplicação. */
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-image: url("../images/wall.png");
+}
+
+/* O seletor .menu estiliza um elemento com a classe menu, geralmente utilizado para criar uma barra de navegação ou cabeçalho. 
+O display: flex transforma o menu em um container flexível, permitindo organizar seus itens de forma eficiente. 
+Com justify-content: space-evenly, os itens dentro do menu são distribuídos de maneira uniforme ao longo do espaço disponível, 
+enquanto align-items: center centraliza verticalmente esses itens.
+
+A altura do menu é definida como 90px e a largura ocupa 100% do elemento pai, 
+garantindo que o menu se estenda por toda a largura da tela. 
+O background-color: #000000 aplica um fundo preto, e 
+color: #ffffff define a cor do texto como branco, criando um contraste visual forte. 
+Por fim, border-bottom: 5px solid #ffd700 adiciona uma borda inferior dourada, destacando visualmente o menu na interface. */
+.menu {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  height: 90px;
+  width: 100%;
+  background-color: #000000;
+  color: #ffffff;
+  border-bottom: 5px solid #ffd700;
+}
+
+/* O seletor .panel define o estilo para um elemento com a classe panel. 
+A propriedade margin-top: 1rem adiciona um espaçamento acima do painel, separando-o visualmente de outros elementos acima dele. 
+O display: flex transforma o painel em um container flexível, facilitando o alinhamento dos itens internos.
+
+Com align-items: center, os itens dentro do painel são centralizados verticalmente, 
+enquanto justify-content: center garante que eles fiquem centralizados horizontalmente. 
+Esse conjunto de propriedades é útil para criar áreas de destaque ou agrupar informações de forma organizada e centralizada na interface. */
+.panel {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* O seletor .square estiliza elementos com a classe square, que provavelmente representam as casas do tabuleiro do jogo. 
+Cada quadrado recebe uma altura e largura de 150px, garantindo que todos tenham o mesmo tamanho e formato quadrado.
+
+A propriedade border: 1px solid #000000 adiciona uma borda preta fina ao redor de cada quadrado, ajudando a delimitar visualmente cada área. 
+O background-color: #1aeaa5 define um fundo verde claro, tornando os quadrados visualmente destacados e 
+facilitando a identificação das áreas interativas do jogo. */
+.square {
+  height: 150px;
+  width: 150px;
+  border: 1px solid #000000;
+  background-color: #1aeaa5;
+}
+
+/* O seletor .enemy estiliza elementos que recebem a classe enemy, indicando que representam o inimigo no tabuleiro do jogo. 
+A propriedade background-image define uma imagem de fundo, utilizando o arquivo ralph.png localizado na pasta images. 
+Já background-size: cover faz com que a imagem de fundo cubra toda a área do elemento, ajustando seu tamanho automaticamente 
+para preencher o quadrado sem distorções. 
+Isso garante que o inimigo fique visualmente destacado e bem posicionado dentro do tabuleiro. */
+.enemy {
+  background-image: url("../images/ralph.png");
+  background-size: cover;
+}
+
+/* O seletor .menu-lives estiliza um elemento com a classe menu-lives, geralmente usado para exibir informações sobre vidas do jogador no menu do jogo. 
+O display: flex transforma esse elemento em um container flexível, facilitando o alinhamento dos itens internos. 
+Com align-items: center, os itens são centralizados verticalmente, 
+enquanto justify-content: center garante que eles fiquem centralizados horizontalmente. 
+Esse conjunto de propriedades ajuda a organizar e destacar visualmente as vidas do jogador na interface. */
+.menu-lives {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 
+
+que estão dentro dos elementos com as classes menu-time e menu-score. 
+O seletor h2:nth-child(2) garante que apenas o segundo elemento h2 filho de cada um desses containers receba o margin-top. 
+Isso é útil para separar visualmente o segundo título ou informação, melhorando a organização e a legibilidade do conteúdo nessas áreas do menu. */
+.menu-time h2:nth-child(2),
+.menu-score h2:nth-child(2) {
+  margin-top: 1rem;
+}
