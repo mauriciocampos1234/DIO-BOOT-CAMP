@@ -32,13 +32,13 @@
 
 | Projeto | Descrição | Branch |
 |--------|-----------|--------|
-| Projeto 01 | Classificador de Nível de Herói - HTML, CSS e JS  | [`Projeto-001`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Projeto-001) |
-| Projeto 02 | Criando Game Detona Ralph - HTML, CSS e JS  | [`Projeto-002`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Projeto-002) |
-| Projeto 03 | Jemoji-memory-game - HTML, CSS e JS  | [`Projeto-003`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Projeto-003) |
-| Projeto 04 | Jyugioh-jo-ken-po - HTML, CSS e JS  | [`Projeto-004`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Projeto-004) |
-| Projeto 05 | Landingpage-mundo-invertido - HTML, CSS e JS(API)  | [`Projeto-005`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Projeto-005) |
-| Projeto 06 | LandingPage - HTML, CSS e JS  | [`Projeto-006`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Projeto-006) |
-| Projeto 07 | Pokedex - HTML, CSS e JS  | [`Projeto-007`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Projeto-007) |
-| Projeto 08 | Simulador-de-piano - HTML, CSS e JS  | [`Projeto-008`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Projeto-008) |
-| Projeto 09 | Spider-man-multiverses - HTML, CSS e JavaScript  | [`Projeto-009`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Projeto-009) |
+| Projeto 01 | Classificador de Nível de Herói - HTML, CSS e JS  | [`Projeto-001`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_03) | 
+| Projeto 02 | Criando Game Detona Ralph - HTML, CSS e JS  | [`Projeto-002`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_02) | 
+| Projeto 03 | Jemoji-memory-game - HTML, CSS e JS  | [`Projeto-003`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_04) | 
+| Projeto 04 | Jyugioh-jo-ken-po - HTML, CSS e JS  | [`Projeto-004`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_06) | 
+| Projeto 05 | Landingpage-mundo-invertido - HTML, CSS e JS | [`Projeto-005`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_08) |
+| Projeto 06 | Criando uma LandingPage - HTML, CSS e JS  | [`Projeto-006`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_01) | 
+| Projeto 07 | Pokedex - HTML, CSS e JS  | [`Projeto-007`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_05) | 
+| Projeto 08 | Simulador-de-piano - HTML, CSS e JS  | [`Projeto-008`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_07) | 
+| Projeto 09 | Spider-man-multiverses - HTML, CSS e JavaScript  | [`Projeto-009`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_09) | 
 ...
