@@ -13,7 +13,7 @@
 > **Serviços AWS.**
 
 > [!IMPORTANT]
-> **Versionamento de código GIT | GITHUB (Os desáfios de projetos deste BootCamp da WEX, para uma melhor organização estarei sempre alocando em Branchs e aqui na MAIN apontando para a Branch dos projetos).**
+> **Versionamento de código GIT | GITHUB (Os desáfios de projetos deste BootCamp, para uma melhor organização estarei sempre alocando em Branchs e aqui na MAIN apontando para a Branch dos projetos).**
 >
 
 ## Projetos do Curso (Back-end em C#)
