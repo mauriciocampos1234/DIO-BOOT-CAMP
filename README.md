@@ -1,4 +1,4 @@
-# DIO-WEX
+# DIO
 
 ## Contexto
 Você foi contratado para construir um sistema de hospedagem, que será usado para realizar uma reserva em um hotel. Você precisará usar a classe Pessoa, que representa o hóspede, a classe Suíte, e a classe Reserva, que fará um relacionamento entre ambos.
