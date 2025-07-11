@@ -11,5 +11,5 @@ Criar Docker Compose para executar uma aplicação HTML em um Container Apache, 
 ```
 - Docker | Docker Compose;
 - Comandos via terminal - VM => Ubuntu
-- Versionamento de código GIT | GITHUB (Os desáfios de projetos deste BootCamp da WEX, para uma melhor organização estarei sempre alocando em Branchs e na MAIN em README.md apontando para a Branch dos projetos).
+- Versionamento de código GIT | GITHUB (Os desáfios de projetos deste BootCamp, para uma melhor organização estarei sempre alocando em Branchs e na MAIN em README.md apontando para a Branch dos projetos).
 ```
