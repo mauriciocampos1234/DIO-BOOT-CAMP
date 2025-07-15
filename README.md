@@ -27,6 +27,7 @@
 | Projeto | Criando um arquivo YML com as definições de um servidor Apache (httpd). - Docker Compose  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-05) |
 | Projeto | Criando um Relatório para um empresa utilizando a infraestrutura da AWS  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-06) |
 | Projeto | Criando um Minimal-API (CRUD de ADM's e VEÍCULOS) - Lógica de Programação, C#, .NET Versão 9, MYSQL  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-07) |
+| Projeto | Criando um sistema gerenciador de tarefas, onde seja possível cadastrar uma lista de tarefas que permitirá organizar melhor a rotina. - Lógica de Programação, C#, .NET Versão 9, SQLSERVER 2022  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-08) |
 ...
 
 ## Projetos do Curso (Front-end)
