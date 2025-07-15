@@ -56,7 +56,7 @@ Neste LAB, vamos criar uma API utilizando a técnica de **Minimal APIs** para o 
 ## Imagens
 
 ### Diagrama da Arquitetura
-![Diagrama da Arquitetura](caminho/para/diagrama-arquitetura.png)
+![Diagrama da Arquitetura](crud.png)
 
 ### Fluxo de Autenticação JWT
-![Fluxo JWT](caminho/para/fluxo-jwt.png)
+![Fluxo JWT](schemas.png)
