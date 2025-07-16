@@ -5,12 +5,14 @@
 > **Banco de dados Relacionais e Não Relacionais. |**
 > **Docker/Docker Compose. |**
 > **AWS.**
+> **AZURE.**
 
 > [!TIP]
 > **Conhecimentos em C# (.NET, Versão 9). |**
 > **Linguagem SQL [DDL, DCL, DML, TCL, DQL]. |**
 > **Comandos via terminal Docker/Docker Compose. |**
 > **Serviços AWS.**
+> **Serviços AZURE.**
 
 > [!IMPORTANT]
 > **Versionamento de código GIT | GITHUB (Os desáfios de projetos deste BootCamp, para uma melhor organização estarei sempre alocando em Branchs e aqui na MAIN apontando para a Branch dos projetos).**
@@ -28,6 +30,7 @@
 | Projeto | Criando um Relatório para um empresa utilizando a infraestrutura da AWS  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-06) |
 | Projeto | Criando um Minimal-API (CRUD de ADM's e VEÍCULOS) - Lógica de Programação, C#, .NET Versão 9, MYSQL  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-07) |
 | Projeto | Criando um sistema gerenciador de tarefas, onde seja possível cadastrar uma lista de tarefas que permitirá organizar melhor a rotina. - Lógica de Programação, C#, .NET Versão 9, SQLSERVER 2022  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-08) |
+| Projeto | Criando um Resumo de aprendizagem durante o desenvolvimento do lab: Computação em Nuvem AZURE  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-09) |
 ...
 
 ## Projetos do Curso (Front-end)
