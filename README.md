@@ -4,7 +4,7 @@
 > **Lógica de Programação e POO. |**
 > **Banco de dados Relacionais e Não Relacionais. |**
 > **Docker/Docker Compose. |**
-> **AWS.**
+> **AWS. |**
 > **AZURE.**
 
 > [!TIP]
