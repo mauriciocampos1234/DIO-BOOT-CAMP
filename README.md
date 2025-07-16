@@ -11,7 +11,7 @@
 > **Conhecimentos em C# (.NET, Versão 9). |**
 > **Linguagem SQL [DDL, DCL, DML, TCL, DQL]. |**
 > **Comandos via terminal Docker/Docker Compose. |**
-> **Serviços AWS.**
+> **Serviços AWS. |**
 > **Serviços AZURE.**
 
 > [!IMPORTANT]
