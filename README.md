@@ -101,4 +101,4 @@ A computação em nuvem é uma **tecnologia disruptiva** e essencial para o futu
 
 ### Tela de Localização de Serviços
 
-![Diagrama da Arquitetura](images/Localizando_Serviços.png)
+![Diagrama da Arquitetura](images/Localização_Serviços.png)
