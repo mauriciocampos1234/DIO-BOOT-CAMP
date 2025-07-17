@@ -32,6 +32,7 @@
 | Projeto | Criando um sistema gerenciador de tarefas, onde seja possível cadastrar uma lista de tarefas que permitirá organizar melhor a rotina. - Lógica de Programação, C#, .NET Versão 9, SQLSERVER 2022  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-08) |
 | Projeto | Criando um Resumo de aprendizagem durante o desenvolvimento do lab: Computação em Nuvem AZURE  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-09) |
 | Projeto | Criando um Resumo de aprendizagem durante o desenvolvimento do lab: Criando máquinas Virtuais na Azure | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-10) |
+| Projeto | Criando um Resumo e Processo de configuração de uma instância de Banco de Dados na plataforma Microsoft Azure | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-11) |
 ...
 
 ## Projetos do Curso (Front-end)
