@@ -8,7 +8,7 @@ A seguir, compartilho um resumo técnico do que aprendi:
 
 ## 1. Introdução à Computação em Nuvem
 
-A **computação em nuvem** é a entrega de serviços de TI via internet — como servidores, armazenamento, bancos de dados, redes e software — **sem a necessidade de infraestrutura física local**.
+A **computação em nuvem** é a entrega de serviços de TI via internet como servidores, armazenamento, bancos de dados, redes e software **sem a necessidade de infraestrutura física local**.
 
 Em vez de investir em hardware, as empresas contratam provedores como o **Microsoft Azure**, pagando apenas pelo uso. Os principais benefícios incluem:
 
