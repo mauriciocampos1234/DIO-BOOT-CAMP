@@ -1,0 +1,47 @@
+<!--ENUNCIADO DO PROGRAMA
+- Tela de login:
+1- Login: Desenhe uma tela de login que possua título, imagem, caixa de texto que leiam um email e senha do usuário,
+um botão para fazer o login, um link para cadastrar-se e um link para esqueceu a senha-->
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="login.css">
+    <title>Login</title>
+</head>
+<body>
+
+    <div class="container">
+        <div class="box">
+            <h1>Login</h1>
+    
+            <img height="100" src="https://site.sorriso.mt.gov.br/storage/app/uploads/public/eb4/b94/738/thumb__600_0_0_0_auto.png" alt="Foto da Logomarca">
+    
+            <form id="frmLogin" action="">
+    
+                <label for="txtEmail">*E-mail:</label>
+                <input type="email" id="txtEmail" placeholder="Seu e-mail de cadastro...">
+    
+                <label for="txtSenha">*Senha:</label>
+                <input type="password" id="txtSenha" placeholder="Sua senha de cadastro...">
+                
+    
+                <a class="esqueceu-senha" href="esqueci-senha.html"><strong>Esqueci minha senha</strong></a>
+    
+                <button id="btnEntrar">Entrar</button>
+    
+            </form>
+
+            <span id="spnErro" class="erro"></span>
+    
+            <p>Não possue conta?<a href="cadastro.html"> <strong>Cadastre-se</strong></a></p>
+        </div>
+    </div>
+    <script src="login.js"></script>
+</body>
+</html>

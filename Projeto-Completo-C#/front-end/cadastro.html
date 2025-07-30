@@ -1,0 +1,88 @@
+<!--ENUNCIADO DO PROGRAMA
+- Tela de Cadastro:
+1- Cadastro: Desenhe uma tela de cadastro de clientes que possua título, imagem, caixa de texto que leiam os seguintes dados:
+Nome, Sobrenome, CPF, email, telefone, gênero e senha, com um botão para fazer o cadastro e um link para a pessoa fazer login,
+caso já tenha conta.-->
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="cadastro.css">
+    <title>Cadastro</title>
+</head>
+<body>
+
+    <div class="container">
+        <div class="box">
+            <h1>Cadastre-se</h1>
+    
+            <img height="100" src="https://site.sorriso.mt.gov.br/storage/app/uploads/public/eb4/b94/738/thumb__600_0_0_0_auto.png" alt="Foto da Logomarca">
+    
+            <form action="">
+    
+                <div class="row">
+                    <div class="left">
+                        <label for="txtNome">*Seu primeiro nome:</label>
+                        <input type="text" class="input-field" id="txtNome" name="nome" placeholder="Primeiro nome...">
+                    </div><!--Fim left-->
+                
+                    <div class="rigth">
+                        <label for="txtSobreNome">*Sobrenome:</label>
+                        <input type="text" class="input-field" id="txtSobreNome" name="sobrenome" placeholder="Sobrenome...">
+                    </div><!--Fim rigth-->
+                
+                </div><!--Fim row 1-->
+                
+                <div class="row">
+                    <div class="left">
+                        <label for="txtEmail">*E-mail:</label>
+                        <input type="email" class="input-field" id="txtEmail" name="email" placeholder="Seu melhor e-mail...">
+                    </div><!--Fim left-->
+                
+                    <div class="right">
+                        <label for="txtTelefone">*Telefone:</label>
+                        <input type="text" class="input-field" id="txtTelefone" name="telefone" placeholder="Seu Whatsapp com DDD...">
+                    </div><!--Fim rigth-->
+                
+                </div><!--Fim row 2-->
+                
+                <div class="row">
+                    <div class="left">
+                        <label for="slcGenero" class="input-field">*Gênero:</label>
+                        <select name="genero" id="slcGenero">
+                            <option value="">escolha:</option>
+                            <option value="Masculino">Masculino</option>
+                            <option value="Masculino">Feminino</option>
+                            <option value="Prefiro não informar">Prefiro não informar</option>
+                            
+                        </select>
+                    </div><!--Fim left-->
+                
+                    <div class="right">
+                        <label for="txtSenha" c>*Senha:</label>
+                        <input type="password" class="input-field" id="txtSenha" placeholder="Crie sua senha...">
+                    </div><!--Fim rigth-->
+                
+                </div><!--Fim row 3-->
+                
+                <div class="row">
+                    <button id="btnCadastrar">Cadastrar</button>
+                </div><!--Fim row 4-->
+    
+            </form>
+
+            <span id="spnErro" class="erro"></span>
+    
+            <p>Já possue conta?<a href="login.html"> <strong>Faça login</strong></a></p>
+        </div>
+    </div>
+    <script src="cadastro.js"></script>
+    <script src="jquery.mask.min.js"></script>
+    <script src="mask-form.js"></script>
+</body>
+</html>

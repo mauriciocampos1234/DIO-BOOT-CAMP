@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(190, 182, 184);
+}
+
+button {
+    width: 100%;
+}
+
+input[type="email"]{
+    width: 100%;
+}
+
+
+.box {
+    width: 280px;
+}
+
+p {
+    margin: 7px;
+}
+
