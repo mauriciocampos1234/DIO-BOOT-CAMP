@@ -1,0 +1,42 @@
+<!--ENUNCIADO DO PROGRAMA
+- Tela de esqueceu senha:
+1- Esqueci senha: Desenhe uma tela de cadastro de clientes que possue título, imagem, uma caixa de texto que leia o email,
+um botão e um link para fazer login-->
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Esqueci senha</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="esqueci-senha.css">
+</head>
+<body>
+    
+    <div class="container">
+        <div class="box">
+            <h1>Esqueci senha</h1>
+    
+            <img height="100" src="https://site.sorriso.mt.gov.br/storage/app/uploads/public/eb4/b94/738/thumb__600_0_0_0_auto.png" alt="Foto da Logomarca">
+    
+            <form action="">
+    
+                <label for="txtEmail">O mesmo E-mail quando cadastrou-se:</label>
+                <input type="email" class="input-field" id="txtEmail" placeholder="Seu e-mail de recuperação de senha...">
+                
+                <button id="btnRecuperarSenha">Recuperar senha</button>
+    
+            </form>
+
+            <span id="spnErro" class="erro"></span>
+    
+            <p>Não possue conta?<a href="cadastro.html"> <strong> Cadastre-se</strong></a></p>
+            
+        </div><!--Fim box-->
+    </div><!--fim container-->
+    <script src="esqueci-senha.js"></script>
+</body>
+</html>
