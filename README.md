@@ -74,7 +74,6 @@ Markdown:
             ]
           ]
         ],
-        "type": "Polygon"
       }
     }
   ]
