@@ -64,7 +64,6 @@ Markdown:
   "features": [
     {
       "type": "Feature",
-      "properties": {},
       "geometry": {
         "coordinates": [
           [
