@@ -54,3 +54,27 @@
 
 # Meu site pessoal
 [`meusite`](https://site-mauricio-campos.vercel.app/)
+
+# Meu escritório
+Markdown:
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -23.3975,
+              -45.8857
+            ],
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ]
+}
