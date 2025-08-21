@@ -62,7 +62,7 @@ Markdown:
 {
   "type": "FeatureCollection",
   "features": [
-    -23.5325,
-    -45.8464
+    ﻿-23.531944444444,
+    -45.845833333333
   ]
 }
