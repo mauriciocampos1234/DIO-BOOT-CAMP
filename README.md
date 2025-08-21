@@ -53,43 +53,7 @@
 ...
 
 # Meu site pessoal
-[`meusite`](https://site-mauricio-campos.vercel.app/)
+💻 [`meusite`](https://site-mauricio-campos.vercel.app/)
 
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -47.310961067570304,
-              -16.04845618945251
-            ],
-            [
-              -47.310961067570304,
-              -15.500907566230353
-            ],
-            [
-              -48.27721676371124,
-              -15.500907566230353
-            ],
-            [
-              -48.27721676371124,
-              -16.04845618945251
-            ],
-            [
-              -47.310961067570304,
-              -16.04845618945251
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      }
-    }
-  ]
-}
+
