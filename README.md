@@ -53,7 +53,7 @@
 ...
 
 # Meu site 
-💻🔗 [`meu site pessoal`](https://site-mauricio-campos.vercel.app/)
+🔗 💻 [`meu site pessoal`](https://site-mauricio-campos.vercel.app/)
 
 
 
