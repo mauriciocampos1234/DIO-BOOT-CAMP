@@ -64,7 +64,6 @@ Markdown:
   "features": [
     {
       "type": "Feature",
-      "geometry": {
         "coordinates": [
           [
             [
@@ -88,9 +87,7 @@ Markdown:
               -45.8464
             ]
           ]
-        ],
-        "type": "Polygon"
-      }
+        ]
     }
   ]
 }
