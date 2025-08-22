@@ -1,0 +1,15 @@
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\bin\Debug\net9.0\IndustriaEVarejo.exe
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\bin\Debug\net9.0\IndustriaEVarejo.deps.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\bin\Debug\net9.0\IndustriaEVarejo.runtimeconfig.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\bin\Debug\net9.0\IndustriaEVarejo.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\bin\Debug\net9.0\IndustriaEVarejo.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\obj\Debug\net9.0\IndustriaEVarejo.GeneratedMSBuildEditorConfig.editorconfig
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\obj\Debug\net9.0\IndustriaEVarejo.AssemblyInfoInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\obj\Debug\net9.0\IndustriaEVarejo.AssemblyInfo.cs
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\obj\Debug\net9.0\IndustriaEVarejo.csproj.CoreCompileInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\obj\Debug\net9.0\IndustriaEVarejo.sourcelink.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\obj\Debug\net9.0\IndustriaEVarejo.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\obj\Debug\net9.0\refint\IndustriaEVarejo.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\obj\Debug\net9.0\IndustriaEVarejo.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\obj\Debug\net9.0\IndustriaEVarejo.genruntimeconfig.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\IndustriaEVarejo\IndustriaEVarejo\obj\Debug\net9.0\ref\IndustriaEVarejo.dll
