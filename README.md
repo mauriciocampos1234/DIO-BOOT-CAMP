@@ -2,7 +2,7 @@
 
 ## 📌 Cenário  
 
-Você agora faz parte da equipe de desenvolvimento da **GFT Seguros**.  
+Você agora faz parte da equipe de desenvolvimento da **X Seguros**.  
 Sua missão é criar um **protótipo de sistema de console** capaz de gerenciar diferentes tipos de **apólices de seguro** e processar os **sinistros** (ocorrências) reportados pelos segurados.  
 
 Este desafio avalia seu domínio em **Programação Orientada a Objetos (POO)**, com foco em **herança, abstração, enums** e **manipulação de listas**.  
