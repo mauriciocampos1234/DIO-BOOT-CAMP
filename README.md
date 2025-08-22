@@ -22,6 +22,12 @@
 
 | Projeto | Descrição | Branch |
 |--------|-----------|--------|
+| Projeto | Criando um sistema de Protótipo de Análise de Extrato Bancário - Lógica de Programação, POO C#, .NET Versão 9  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/BancoInovaTech) |
+| Projeto | Criando um sistema de Gerenciamento de Contas e Suporte Técnico em Telecom - Lógica de Programação, POO C#, .NET Versão 9  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/SuporteTecnicoTelecom) |
+| Projeto | Criando um sistema de Sistema de Gerenciamento de Ordens de Serviço de Oficina Automotiva - Lógica de Programação, POO C#, .NET Versão 9  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/ServicosDeOficina) |
+| Projeto | Criando um sistema de Ordens de Serviço para Manutenção de Máquinas - Lógica de Programação, POO C#, .NET Versão 9  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Manufatura) |
+| Projeto | Criando um sistema de transformação digital que atua na fabricação quanto na venda de produtos (Indústria e Varejo) - Lógica de Programação, POO C#, .NET Versão 9  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/IndustriaEVarejo) |
+| Projeto | Criando um lista de transações bancárias e gerar um relatório simples. - Lógica de Programação, POO C#, .NET Versão 9  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/GFTSeguros) |
 | Projeto | Criando um sistema para gerenciamento de um estacionamento - Lógica de Programação, C#, .NET Versão 9  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-01) |
 | Projeto | Criando um sistema de hospedagem em um hotel - Lógica de Programação, C#, .NET Versão 9  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-02) |
 | Projeto | Criando um Sistema e abstraindo um celular com POO. - Lógica de Programação, C#, .NET Versão 9  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-03) |
