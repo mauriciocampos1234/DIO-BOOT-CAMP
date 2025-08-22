@@ -1,0 +1,15 @@
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\bin\Debug\net9.0\ServicosDeOficina.exe
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\bin\Debug\net9.0\ServicosDeOficina.deps.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\bin\Debug\net9.0\ServicosDeOficina.runtimeconfig.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\bin\Debug\net9.0\ServicosDeOficina.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\bin\Debug\net9.0\ServicosDeOficina.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\obj\Debug\net9.0\ServicosDeOficina.GeneratedMSBuildEditorConfig.editorconfig
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\obj\Debug\net9.0\ServicosDeOficina.AssemblyInfoInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\obj\Debug\net9.0\ServicosDeOficina.AssemblyInfo.cs
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\obj\Debug\net9.0\ServicosDeOficina.csproj.CoreCompileInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\obj\Debug\net9.0\ServicosDeOficina.sourcelink.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\obj\Debug\net9.0\ServicosDeOficina.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\obj\Debug\net9.0\refint\ServicosDeOficina.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\obj\Debug\net9.0\ServicosDeOficina.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\obj\Debug\net9.0\ServicosDeOficina.genruntimeconfig.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\ServicosDeOficina\ServicosDeOficina\obj\Debug\net9.0\ref\ServicosDeOficina.dll
