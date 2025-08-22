@@ -1,0 +1,15 @@
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\bin\Debug\net9.0\GFTSeguros.exe
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\bin\Debug\net9.0\GFTSeguros.deps.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\bin\Debug\net9.0\GFTSeguros.runtimeconfig.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\bin\Debug\net9.0\GFTSeguros.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\bin\Debug\net9.0\GFTSeguros.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\obj\Debug\net9.0\GFTSeguros.GeneratedMSBuildEditorConfig.editorconfig
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\obj\Debug\net9.0\GFTSeguros.AssemblyInfoInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\obj\Debug\net9.0\GFTSeguros.AssemblyInfo.cs
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\obj\Debug\net9.0\GFTSeguros.csproj.CoreCompileInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\obj\Debug\net9.0\GFTSeguros.sourcelink.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\obj\Debug\net9.0\GFTSeguros.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\obj\Debug\net9.0\refint\GFTSeguros.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\obj\Debug\net9.0\GFTSeguros.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\obj\Debug\net9.0\GFTSeguros.genruntimeconfig.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\GFTSeguros\GFTSeguros\obj\Debug\net9.0\ref\GFTSeguros.dll
