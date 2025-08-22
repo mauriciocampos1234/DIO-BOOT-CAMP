@@ -1,0 +1,15 @@
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\bin\Debug\net9.0\Manufatura.exe
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\bin\Debug\net9.0\Manufatura.deps.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\bin\Debug\net9.0\Manufatura.runtimeconfig.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\bin\Debug\net9.0\Manufatura.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\bin\Debug\net9.0\Manufatura.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\obj\Debug\net9.0\Manufatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\obj\Debug\net9.0\Manufatura.AssemblyInfoInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\obj\Debug\net9.0\Manufatura.AssemblyInfo.cs
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\obj\Debug\net9.0\Manufatura.csproj.CoreCompileInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\obj\Debug\net9.0\Manufatura.sourcelink.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\obj\Debug\net9.0\Manufatura.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\obj\Debug\net9.0\refint\Manufatura.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\obj\Debug\net9.0\Manufatura.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\obj\Debug\net9.0\Manufatura.genruntimeconfig.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\Manufatura\Manufatura\obj\Debug\net9.0\ref\Manufatura.dll
