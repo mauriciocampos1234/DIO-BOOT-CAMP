@@ -1,0 +1,15 @@
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\bin\Debug\net9.0\SuporteTecnicoTelecom.exe
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\bin\Debug\net9.0\SuporteTecnicoTelecom.deps.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\bin\Debug\net9.0\SuporteTecnicoTelecom.runtimeconfig.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\bin\Debug\net9.0\SuporteTecnicoTelecom.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\bin\Debug\net9.0\SuporteTecnicoTelecom.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\obj\Debug\net9.0\SuporteTecnicoTelecom.GeneratedMSBuildEditorConfig.editorconfig
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\obj\Debug\net9.0\SuporteTecnicoTelecom.AssemblyInfoInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\obj\Debug\net9.0\SuporteTecnicoTelecom.AssemblyInfo.cs
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\obj\Debug\net9.0\SuporteTecnicoTelecom.csproj.CoreCompileInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\obj\Debug\net9.0\SuporteTecnicoTelecom.sourcelink.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\obj\Debug\net9.0\SuporteTecnicoTelecom.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\obj\Debug\net9.0\refint\SuporteTecnicoTelecom.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\obj\Debug\net9.0\SuporteTecnicoTelecom.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\obj\Debug\net9.0\SuporteTecnicoTelecom.genruntimeconfig.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\SuporteTecnicoTelecom\SuporteTecnicoTelecom\obj\Debug\net9.0\ref\SuporteTecnicoTelecom.dll
