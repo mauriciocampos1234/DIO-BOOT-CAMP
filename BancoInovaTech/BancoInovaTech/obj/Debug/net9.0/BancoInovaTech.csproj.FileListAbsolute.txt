@@ -1,0 +1,15 @@
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\bin\Debug\net9.0\BancoInovaTech.exe
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\bin\Debug\net9.0\BancoInovaTech.deps.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\bin\Debug\net9.0\BancoInovaTech.runtimeconfig.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\bin\Debug\net9.0\BancoInovaTech.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\bin\Debug\net9.0\BancoInovaTech.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\obj\Debug\net9.0\BancoInovaTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\obj\Debug\net9.0\BancoInovaTech.AssemblyInfoInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\obj\Debug\net9.0\BancoInovaTech.AssemblyInfo.cs
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\obj\Debug\net9.0\BancoInovaTech.csproj.CoreCompileInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\obj\Debug\net9.0\BancoInovaTech.sourcelink.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\obj\Debug\net9.0\BancoInovaTech.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\obj\Debug\net9.0\refint\BancoInovaTech.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\obj\Debug\net9.0\BancoInovaTech.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\obj\Debug\net9.0\BancoInovaTech.genruntimeconfig.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\BancoInovaTech\BancoInovaTech\obj\Debug\net9.0\ref\BancoInovaTech.dll
