@@ -1,7 +1,7 @@
 # 📡 Desafio Simulado: Sistema de Gerenciamento de Contas e Suporte Técnico em Telecom
 
 ## 📌 Cenário
-Sua equipe na **X** está desenvolvendo um novo CRM (**Customer Relationship Management**) para a **GFT Telecom**, uma provedora de serviços de internet e telefonia.  
+Sua equipe na **X** está desenvolvendo um novo CRM (**Customer Relationship Management**) para a **X Telecom**, uma provedora de serviços de internet e telefonia.  
 
 O seu papel é criar um **protótipo do módulo de conta do cliente**, que deve gerenciar:  
 - O plano contratado  
