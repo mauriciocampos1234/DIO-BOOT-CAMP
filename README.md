@@ -1,1 +1,1 @@
-# DIO-WEX
+# Projeto Calculadora simples desenvolvida com REACT
