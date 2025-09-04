@@ -48,6 +48,7 @@
 | Projeto | Descrição | Branch |
 |--------|-----------|--------|
 | Projeto | Calculadora simples com REACT - REACT, HTML, CSS e JS  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/trilha-react-desafio01-calculadora) |
+| Projeto | Projeto simples de estudo de criação de componentes aninhados - REACT + TS + VITE | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/my-app-react-ts) |
 | Projeto | Classificador de Nível de Herói - HTML, CSS e JS  | [`Ver Projeto`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_03) | 
 | Projeto | Criando Game Detona Ralph - HTML, CSS e JS  | [`Ver Projeto`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_02) | 
 | Projeto | Jemoji-memory-game - HTML, CSS e JS  | [`Ver Projeto`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_04) | 
