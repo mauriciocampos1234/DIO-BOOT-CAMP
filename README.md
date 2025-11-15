@@ -22,7 +22,7 @@
 
 | Projeto | Descrição | Branch |
 |--------|-----------|--------|
-| Projeto | Criando um sistema de Gestão Escolar - ASPNET Core MVC, Lógica de Programação, POO C#, .NET Versão 8, AZURE | [`Ver Projeto`](https://github.com/mauriciocampos1234/sistema-gerenciamento-escola-completo) |
+| Projeto | Criando um sistema (Real) de Gestão Escolar - ASPNET Core MVC, Lógica de Programação, POO C#, .NET Versão 8, AZURE | [`Ver Projeto`](https://github.com/mauriciocampos1234/sistema-gerenciamento-escola-completo) |
 | Projeto | Criando um sistema de Protótipo de Análise de Extrato Bancário - Lógica de Programação, POO C#, .NET Versão 9  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/BancoInovaTech) |
 | Projeto | Criando um sistema de Gerenciamento de Contas e Suporte Técnico em Telecom - Lógica de Programação, POO C#, .NET Versão 9  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/SuporteTecnicoTelecom) |
 | Projeto | Criando um sistema de Sistema de Gerenciamento de Ordens de Serviço de Oficina Automotiva - Lógica de Programação, POO C#, .NET Versão 9  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/ServicosDeOficina) |
