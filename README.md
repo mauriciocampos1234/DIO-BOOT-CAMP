@@ -8,7 +8,7 @@
 > **AZURE.**
 
 > [!TIP]
-> **Conhecimentos em C# (.NET, Versão 9). |**
+> **Conhecimentos em C# (.NET, Versão 9). Python versão 3+ |**
 > **Linguagem SQL [DDL, DCL, DML, TCL, DQL]. |**
 > **Comandos via terminal Docker/Docker Compose. |**
 > **Serviços AWS. |**
@@ -41,6 +41,14 @@
 | Projeto | Criando um Resumo de aprendizagem durante o desenvolvimento do lab: Criando máquinas Virtuais na Azure | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-10) |
 | Projeto | Criando um Resumo e Processo de configuração de uma instância de Banco de Dados na plataforma Microsoft Azure | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Desafio-11) |
 | Projeto | Criando um Projeto completo de cadastro: Front-end: html 5, css 3, JavaScript - Back-end: .net C# versão 8, banco de dados MYSQL  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/Projeto-Completo-C%23) |
+
+...
+
+## Projetos do Curso (Python)
+
+| Projeto | Descrição | Branch |
+|--------|-----------|--------|
+| Projeto | Criando um sistema simula um sistema de banco digital - Lógica de Programação, POO em Python, Versão 3+, | [`Ver Projeto`](https://github.com/mauriciocampos1234/sistema-bancario) |
 
 ...
 
