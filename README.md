@@ -48,7 +48,7 @@
 
 | Projeto | Descrição | Branch |
 |--------|-----------|--------|
-| Projeto | Criando um sistema simula um sistema de banco digital - Lógica de Programação, POO em Python, Versão 3+ | [`Ver Projeto`](https://github.com/mauriciocampos1234/sistema-bancario) |
+| Projeto | Criando um projeto que simula um sistema de banco digital - Lógica de Programação, POO em Python, Versão 3+ | [`Ver Projeto`](https://github.com/mauriciocampos1234/sistema-bancario) |
 | Projeto | Trilha completa de Aprendizagem da Linguagem Python - Lógica de Programação, POO em Python, Versão 3+ | [`Ver Projeto`](https://github.com/mauriciocampos1234/trilha-python-dio) |
 
 ...
