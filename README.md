@@ -52,6 +52,7 @@
 | Projeto | Criando um projeto que simula um sistema de banco digital - Lógica de Programação, POO em Python, Versão 3+ | [`Ver Projeto`](https://github.com/mauriciocampos1234/sistema-bancario) |
 | Projeto | Trilha completa de Aprendizagem da Linguagem Python - Lógica de Programação, POO em Python, Versão 3+ | [`Ver Projeto`](https://github.com/mauriciocampos1234/trilha-python-dio) |
 | Projeto | Criando um projeto de academia - POO em Python, Versão 3.10+, FastAPI, Docker | [`Ver Projeto`](https://github.com/mauriciocampos1234/academia-api-main) |
+| Projeto | Criando um projeto de rosulução de Códigos em Python com o Github Copilot | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/projeto-resolvendo-codigos-py-copilot) |
 
 ...
 
