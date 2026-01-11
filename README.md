@@ -48,6 +48,7 @@
 
 | Projeto | Descrição | Branch |
 |--------|-----------|--------|
+| Projeto | Criando um projeto que Projeto de estudo que implementa uma API REST assíncrona para um “blog”, com autenticação via JWT e CRUD de posts | [`Ver Projeto`](https://github.com/mauriciocampos1234/blog_com_fastapi) |
 | Projeto | Criando um projeto que simula um sistema de banco digital - Lógica de Programação, POO em Python, Versão 3+ | [`Ver Projeto`](https://github.com/mauriciocampos1234/sistema-bancario) |
 | Projeto | Trilha completa de Aprendizagem da Linguagem Python - Lógica de Programação, POO em Python, Versão 3+ | [`Ver Projeto`](https://github.com/mauriciocampos1234/trilha-python-dio) |
 | Projeto | Criando um projeto de academia - POO em Python, Versão 3.10+, FastAPI, Docker | [`Ver Projeto`](https://github.com/mauriciocampos1234/academia-api-main) |
