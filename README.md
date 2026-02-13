@@ -16,12 +16,12 @@
 
 > [!IMPORTANT]
 > **Versionamento de código GIT | GITHUB (Os desáfios de projetos deste BootCamp, para uma melhor organização estarei sempre alocando em Branchs e aqui na MAIN apontando para a Branch dos projetos).**
->
 
 ## Projetos do Curso (Back-end em C#)
 
 | Projeto | Descrição | Branch |
 |--------|-----------|--------|
+| Projeto | Criando consultas(Escrevendo) SQL utilizando o Microsof Copilot | [`Ver Projeto`](https://github.com/mauriciocampos1234/databases-e-cards) |
 | Projeto | Criando um sistema (Real) de Gestão Escolar - ASPNET Core MVC, Lógica de Programação, POO C#, .NET Versão 8, AZURE | [`Ver Projeto`](https://github.com/mauriciocampos1234/sistema-gerenciamento-escola-completo) |
 | Projeto | Criando um sistema de Protótipo de Análise de Extrato Bancário - Lógica de Programação, POO C#, .NET Versão 9  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/BancoInovaTech) |
 | Projeto | Criando um sistema de Gerenciamento de Contas e Suporte Técnico em Telecom - Lógica de Programação, POO C#, .NET Versão 9  | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/SuporteTecnicoTelecom) |
