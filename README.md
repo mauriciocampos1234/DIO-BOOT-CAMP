@@ -55,6 +55,7 @@
 | Projeto | Criando um projeto de academia - POO em Python, Versão 3.10+, FastAPI, Docker | [`Ver Projeto`](https://github.com/mauriciocampos1234/academia-api-main) |
 | Projeto | Criando um projeto de rosulução de Códigos em Python com o Github Copilot | [`Ver Projeto`](https://github.com/mauriciocampos1234/DIO-BOOT-CAMP/tree/projeto-resolvendo-codigos-py-copilot) |
 | Projeto | Conversando por Voz Com o ChatGPT Utilizando Whisper OpenAI e Python | [`Ver Projeto`](https://github.com/mauriciocampos1234/Conversando-por-Voz-Com-o-ChatGPT-Utilizando-Whisper-OpenAI-e-Python) |
+
 ...
 
 ## Projetos do Curso (Front-end)
