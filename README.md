@@ -48,6 +48,7 @@
 
 | Projeto | Descrição | Branch |
 |--------|-----------|--------|
+| Projeto | Educador Financeiro com uso de IA Baseando-se em Dados Mockados | [`Ver Projeto`](https://github.com/mauriciocampos1234/Educador-Financeiro-Bradesco) |
 | Projeto | Automacao, Analise de Dados, IA - chatbot-python | [`Ver Projeto`](https://github.com/mauriciocampos1234/automacao-analise-dados-ia-chatbot-python) |
 | Projeto | Criando um projeto que Projeto de estudo que implementa uma API REST assíncrona para um “blog”, com autenticação via JWT e CRUD de posts | [`Ver Projeto`](https://github.com/mauriciocampos1234/blog_com_fastapi) |
 | Projeto | Criando um projeto que simula um sistema de banco digital - Lógica de Programação, POO em Python, Versão 3+ | [`Ver Projeto`](https://github.com/mauriciocampos1234/sistema-bancario) |
