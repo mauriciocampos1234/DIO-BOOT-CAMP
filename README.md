@@ -10,6 +10,7 @@
 > [!TIP]
 > **Conhecimentos em C# (.NET, Versão 9). Python versão 3+ |**
 > **Linguagem SQL [DDL, DCL, DML, TCL, DQL]. |**
+> **Linguagem NoSQL [MongoDB]. |**
 > **Comandos via terminal Docker/Docker Compose. |**
 > **Serviços AWS. |**
 > **Serviços AZURE.**
