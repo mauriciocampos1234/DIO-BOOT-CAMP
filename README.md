@@ -48,7 +48,7 @@
 
 | Projeto | Descrição | Branch |
 |--------|-----------|--------|
-| Projeto | Educador Financeiro com uso de IA Baseando-se em Dados Mockados | [`Ver Projeto`](https://github.com/mauriciocampos1234/Educador-Financeiro-Bradesco) |
+| Projeto | projeto-front-back-end - React + Vite + NodeJS | [`Ver Projeto`](https://github.com/mauriciocampos1234/projeto-front-back-end) |
 | Trabalho Big Data com Pandas (Faculdade) - Este repositório documenta um trabalho prático/microatividades utilizando Python + Pandas para exploração e limpeza de um conjunto de dados. | [`Ver Projeto`](https://github.com/mauriciocampos1234/Trabalho-Big-Data-Pandas-Faculdade) |
 | Projeto | Educador Financeiro com uso de IA Baseando-se em Dados Mockados | [`Ver Projeto`](https://github.com/mauriciocampos1234/Educador-Financeiro-Bradesco) |
 | Projeto | Automacao, Analise de Dados, IA - chatbot-python | [`Ver Projeto`](https://github.com/mauriciocampos1234/automacao-analise-dados-ia-chatbot-python) |
